@@ -1,0 +1,14 @@
+{
+  "v": 3,
+  "createdOnFiles": { "v": 1, "at": "2026-10-07T19:55:00Z" },
+  "title": "YAZNE - Banner Bolsita Favorita",
+  "launch": { "view": "canvas" },
+  "pages": [],
+  "boards": {
+    "Variant-Pink.dc.html": { "x": 0, "y": 0, "w": 1080, "h": 1080, "title": "Variante A - Rosa" },
+    "Variant-Black.dc.html": { "x": 1200, "y": 0, "w": 1080, "h": 1080, "title": "Variante B - Negra" }
+  },
+  "order": ["Variant-Pink.dc.html", "Variant-Black.dc.html"],
+  "notes": {},
+  "designSystems": []
+}
